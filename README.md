@@ -7,7 +7,7 @@ the method has been described in Meyer, Aglyamova and Matz, Mol Ecol 2011 ( doi:
 
 This project provides the scripts and walkthoughs for initial sequence data processing (from reads to gene counts), including:
 
-1) concatenating raw sequence files according to the sampling design;
-2) adaptor trimming, quality filtering and removal of PCR duplicates;
-3) mapping against reference transcriptome;
-4) deriving gene counts.
+  * concatenating raw sequence files according to the sampling design;
+  * adaptor trimming, quality filtering and removal of PCR duplicates;
+  * mapping against reference transcriptome;
+  * deriving gene counts.
